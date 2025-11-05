@@ -39,5 +39,5 @@ This project demonstrates how to deploy a **highly available web infrastructure*
 ### **Setup Instructions**
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/multi-region-terraform.git
+   git clone https://github.com/your-username/terrafor_project.git
    cd multi-region-terraform
